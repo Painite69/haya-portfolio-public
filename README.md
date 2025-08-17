@@ -2,7 +2,7 @@
 
 ![Logo](main.png)
 
-A portfolio website showcasing the work of enob art, her services and methods.
+A portfolio website showcasing the life and work of Haya Barakat, A Creative Social Media Manager and Gentics Engineer.
 
 ## 🚀 Tech Stack
 - **Frontend:** React, Next.js and TypeScript.
