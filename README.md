@@ -21,9 +21,9 @@ A portfolio website showcasing the life and work of Haya Barakat, A Creative Soc
 - Single page portfolio website.
 - A contact form connected to the owners email using Resend.
 
-## 📸 Main Menu
-![Main Menu on desktop](images/desktop/1.jpeg)
-![Main Menu on phone](images/phone/1.jpeg)
+## 📸 Homepage
+![Homepage on desktop](images/desktop/1.jpeg)
+![Homepage on phone](images/phone/1.jpeg)
 
 
 ## 🎥 Video showcase of the project
