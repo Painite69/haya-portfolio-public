@@ -17,7 +17,7 @@ A portfolio website showcasing the work of enob art, her services and methods.
 
 
 ## 🧑‍💻 Technical
-- Cionnected admin page, homepage and database for unified edits.
+- Connected admin page, homepage and database for unified edits.
 - Single page portfolio website.
 - A contact form connected to the owners email using Resend.
 
